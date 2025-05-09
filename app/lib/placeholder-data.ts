@@ -46,6 +46,36 @@ const customers = [
     email: 'balazs@orban.com',
     image_url: '/customers/balazs-orban.png',
   },
+  {
+    id: '13D07535-C59E-4157-A011-F8D2EF4E0CBB',
+    name: 'Lia Hartono',
+    email: 'lia@hartono.com',
+    image_url: '/customers/lia-hartono.png',
+  },
+  {
+    id: '13D07535-C59E-4157-A011-F8D2EF4E0CBB',
+    name: 'Rama Nugraha',
+    email: 'rama@nugraha.com',
+    image_url: '/customers/rama-nugraha.png',
+  },
+  {
+    id: '13D07535-C59E-4157-A011-F8D2EF4E0CBB',
+    name: 'Sinta Wijaya',
+    email: 'sinta@wijaya.com',
+    image_url: '/customers/sinta-wijaya.png',
+  },
+  {
+    id: '13D07535-C59E-4157-A011-F8D2EF4E0CBB',
+    name: 'Dimas Saputra',
+    email: 'dimas@saputra.com',
+    image_url: '/customers/dimas-saputra.png',
+  },
+  {
+    id: '13D07535-C59E-4157-A011-F8D2EF4E0CBB',
+    name: 'Balazs Orban',
+    email: 'balazs@orban.com',
+    image_url: '/customers/balazs-orban.png',
+  },
 ];
 
 const invoices = [
